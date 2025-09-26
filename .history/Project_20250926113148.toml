@@ -1,6 +1,6 @@
-name = "FixedPointToolbox"
+name = "FixedPointToolkit"
 uuid = "081f7a28-ac82-48c1-a10e-fa8b3349a52a"
-authors = ["Anjishnu Bose <anjishnubose98@gmail.com>", "Samuel Vadnais <samuel.vadnais@utoronto.ca>", "Andrew Hardy <andrewkoehlerhardy@gmail.com>"]
+authors = ["Anjishnu Bose <anjishnubose98@gmail.com>", "Samuel Vadnais <samuel.vadnais@utoronto.ca>"]
 version = "1.0.1"
 
 [deps]
