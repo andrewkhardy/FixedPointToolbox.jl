@@ -1,5 +1,5 @@
-include("../src/FixedPointToolbox.jl")
-using .FixedPointToolbox
+include("../src/FixedPointToolkit.jl")
+using .FixedPointToolkit
 
 using LinearAlgebra
 """

@@ -2,7 +2,7 @@ module SelfConsistency
     export SelfCons
     
     using LinearAlgebra
-    using ..FixedPointToolbox.Updates: SimpleMixing
+    using ..FixedPointToolkit.Updates: SimpleMixing
 
 
 @doc """

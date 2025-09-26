@@ -1,6 +1,6 @@
-# FixedPointToolbox.jl
+# FixedPointToolkit.jl
 
-FixedPointToolbox.jl is a Julia package meant for calculating fixed points of any scalar or vector functions, or equivalently, solve some system of self-consistent equations.
+FixedPointToolkit.jl is a Julia package meant for calculating fixed points of any scalar or vector functions, or equivalently, solve some system of self-consistent equations.
 
 Currently supported :
 * Fixed point iteration can work on any user defined function.

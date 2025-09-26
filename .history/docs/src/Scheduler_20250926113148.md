@@ -1,7 +1,7 @@
-# FixedPointToolbox.Scheduler
+# FixedPointToolkit.Scheduler
 
 ```@autodocs
-Modules = [FixedPointToolbox, FixedPointToolbox.Scheduler]
+Modules = [FixedPointToolkit, FixedPointToolkit.Scheduler]
 Private = false
 Pages   = ["Scheduler.jl"]
 ```

@@ -2,8 +2,8 @@ module FPoint
 
     export FixedPoint!, ContinueFixedPoint!
 
-    using ..FixedPointToolbox.SelfConsistency: SelfCons
-    using ..FixedPointToolbox.Checkpointer: save_checkpoint, read_checkpoint, ReCreateSelfCons  
+    using ..FixedPointToolkit.SelfConsistency: SelfCons
+    using ..FixedPointToolkit.Checkpointer: save_checkpoint, read_checkpoint, ReCreateSelfCons  
     
     using Logging
 

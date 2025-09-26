@@ -1,7 +1,7 @@
-# FixedPointToolbox.Updates
+# FixedPointToolkit.Updates
 
 ```@autodocs
-Modules = [FixedPointToolbox, FixedPointToolbox.Updates]
+Modules = [FixedPointToolkit, FixedPointToolkit.Updates]
 Private = false
 Pages = ["Updates.jl"]
 ```

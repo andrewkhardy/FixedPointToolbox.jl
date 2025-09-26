@@ -1,11 +1,11 @@
 using Documenter
-using FixedPointToolbox
+using FixedPointToolkit
 
 makedocs(
     build       =   "build" ,
-    sitename    =   "FixedPointToolbox.jl"    ,
-    modules     =   [FixedPointToolbox, FixedPointToolbox.Scheduler, FixedPointToolbox.Updates, FixedPointToolbox.SelfConsistency, FixedPointToolbox.Checkpointer, FixedPointToolbox.FPoint, 
-                            FixedPointToolbox.PlotSelfCons]   ,
+    sitename    =   "FixedPointToolkit.jl"    ,
+    modules     =   [FixedPointToolkit, FixedPointToolkit.Scheduler, FixedPointToolkit.Updates, FixedPointToolkit.SelfConsistency, FixedPointToolkit.Checkpointer, FixedPointToolkit.FPoint, 
+                            FixedPointToolkit.PlotSelfCons]   ,
     pages = [
         "Introduction"              =>  "index.md",
         "Schedulers"                =>  "Scheduler.md",
@@ -18,6 +18,6 @@ makedocs(
 )
 
 deploydocs(
-    repo = "github.com/Anjishnubose/FixedPointToolbox.jl.git",
+    repo = "github.com/Anjishnubose/FixedPointToolkit.jl.git",
     devbranch = "main"
 )

@@ -2,7 +2,7 @@ module Updates
     export SimpleMixing, ScheduledMixing, BroydenMixing
 
     using LinearAlgebra
-    using ..FixedPointToolbox.Scheduler: QuadraticScheduling, ExponentialScheduling
+    using ..FixedPointToolkit.Scheduler: QuadraticScheduling, ExponentialScheduling
 
 
 @doc """

@@ -2,7 +2,7 @@ module PlotSelfCons
     export Plot_History
 
     using Plots, LinearAlgebra
-    using ..FixedPointToolbox.SelfConsistency: SelfCons
+    using ..FixedPointToolkit.SelfConsistency: SelfCons
     
 
 @doc """
